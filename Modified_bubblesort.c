@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Satvik MIttal (2017548)
 void bubbleSort(int arr[], int size) {  // sorting function
   for (int j = 0; j < size - 1; ++j) {
 
